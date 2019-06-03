@@ -1,11 +1,11 @@
-// package com.aurea.codefix.client.api.model;
+package com.aurea.codefix.client.api.model;
 
-// import static pl.pojo.tester.api.assertion.Assertions.assertPojoMethodsFor;
+import static pl.pojo.tester.api.assertion.Assertions.assertPojoMethodsFor;
 
-// import org.junit.Test;
-// import pl.pojo.tester.api.assertion.Method;
+import org.junit.Test;
+import pl.pojo.tester.api.assertion.Method;
 
-// public class InsightIssueTest {
+public class InsightIssueTest {
 
     @Test
     public void getterSetters() {
